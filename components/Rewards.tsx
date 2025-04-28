@@ -34,6 +34,7 @@ const Rewards = () => {
 
               <p
                 className="lg:text-sm lg:font-normal font-light text-xs line-clamp-2"
+                title={item?.des}
                 style={{
                   color: "#BEC1DD",
                   margin: "1vh 0",
